@@ -1,0 +1,43 @@
+[
+    {
+        "id" : 1,
+        "text": "We are all different and that's beautiful"
+    },
+
+    {
+        "id" : 2,
+        "text": "Be kind, Do good, Shine bright"
+    },
+    {
+        "id" : 3,
+        "text": "Treat everybody like it's their birthday"
+    },
+    {
+        "id" : 4,
+        "text": "Work hard, Be kind, and Amazing things will happen"
+    },
+    {
+        "id" : 5,
+        "text": "Your attitude determines your direction"
+    },
+    {
+        "id" : 6,
+        "text": "We are all different and that's beautiful"
+    },
+    {
+        "id" : 7,
+        "text": "It doesn't get easier, you get better"
+    },
+    {
+        "id" : 8,
+        "text": "It's okay not to know, but it's not okay to not try"
+    },
+    {
+        "id" : 9,
+        "text": "Doing nothing is a great way to change nothing"
+    },
+    {
+        "id" : 10,
+        "text": "If you think someone could use a friend, be one"
+    }
+]
